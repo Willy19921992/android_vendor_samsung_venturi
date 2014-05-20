@@ -25,7 +25,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/venturi/proprietary/vendor/bin/orientationd:system/vendor/bin/orientationd \
     vendor/samsung/venturi/proprietary/vendor/bin/geomagneticd:system/vendor/bin/geomagneticd \
     vendor/samsung/venturi/proprietary/vendor/lib/hw/sensors.s5pc110.so:system/vendor/lib/hw/sensors.s5pc110.so \
-    vendor/samsung/venturi/proprietary/vendor/lib/hw/lights.s5pc110.so:system/vendor/lib/hw/lights.s5pc110.so \
     vendor/samsung/venturi/proprietary/vendor/bin/pvrsrvinit:system/vendor/bin/pvrsrvinit \
     vendor/samsung/venturi/proprietary/vendor/lib/egl/libEGL_POWERVR_SGX540_120.so:system/vendor/lib/egl/libEGL_POWERVR_SGX540_120.so \
     vendor/samsung/venturi/proprietary/vendor/lib/egl/libGLESv1_CM_POWERVR_SGX540_120.so:system/vendor/lib/egl/libGLESv1_CM_POWERVR_SGX540_120.so \
